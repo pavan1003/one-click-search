@@ -1,5 +1,5 @@
 import OpenAI from "openai";
-import prompts from "./prompts/prompts.json" assert { type: "json" };
+import prompts from "./prompts/prompts.json" with { type: "json" };;
 import dotenv from "dotenv";
 dotenv.config();
 
