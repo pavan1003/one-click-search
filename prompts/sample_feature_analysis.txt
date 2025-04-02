@@ -1,0 +1,9 @@
+~ **Shunting Element**: Lumen configured to fluidly couple [left atrium] and [right atrium] upon implantation. <G>
+
+~ **Anchoring Mechanism**: Secures [shunting element] within heart. <G>
+
+~ **Anchoring Features**: Includes [flanges], tethers, anchoring elements, expandable/inflatable elements for securing. <G>
+
+~ **Balloon-Expandable Shunting Element**: Transitions from [contracted] to [expanded configuration] for deployment. <N>
+
+~ **Positionable Shunting Element**: Fits within [septal wall aperture] to establish fluid connection between atria. <N>
