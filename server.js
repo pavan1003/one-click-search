@@ -25,6 +25,7 @@ app.get("/", (req, res) => {
 });
 
 app.post("/oneclick", async (req, res) => {
+  req.setTimeout(60000);
   try {
     const { patentText, date } = req.body;
 
